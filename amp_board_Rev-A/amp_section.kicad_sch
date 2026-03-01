@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "9cf44d40-ea27-4ca7-a04c-f26c862b5245")
 	(paper "A4")
+	(title_block
+		(title "amp board")
+		(date "2026-03-01")
+		(rev "A")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
